@@ -1,0 +1,23 @@
+AI Resume Analyzer Report
+
+api: 4
+backend: 5
+bootstrap: 1
+css: 4
+database: 1
+frontend: 3
+git: 5
+html: 3
+javascript: 4
+jquery: 0
+nodejs: 0
+react: 5
+typescript: 0
+
+Final Weighted Score: 109 / 39
+Percentage: 279.487%
+
+Missing Keywords:
+jquery
+nodejs
+typescript

@@ -1,0 +1,68 @@
+KHUSHI KUMARI
+Greater Noida
+
+8252887619
+
+HACER RANK ID:
+GITHUB ID:
+
+khushi8252kumari@gmail.com
+
+@khushi8252kumari
+https: //github.com/khushisharma205
+
+CAREER OBJECTIVE
+Enthusiastic and dedicated MCA Fresher, eager to begin a career in a reputed IT company where Passionate
+about applying academic knowledge, enhancing technical skills and contributing to real-world software and
+technology projects while growing professionally
+
+EDUCATION
+MASTER OF COMPUTER APPLICATION GNIOT COLLEGE GREATER NOIDA AKTU UNIVERSITY
+BACHELOR OF COMPUTER APPLICATION
+MALTI DHARI COLLEGE ,NAUBATPUR (PATNA) , PATLIPUTRA
+UNIVERSITY
+
+INTERMIDIATE MALTI DHARI COLLEGE
+NAUBATPUR PATNA
+
+MATRICULATION HIGH SCHOOL PITWANS
+NAUBATPUR PATNA
+
+2024-present
+2021-2024
+2021
+2019
+
+SKILLS
+programming language:c++,java,html,css,c,python,js
+Database:
+
+My sql,Ms access
+
+Tools:
+
+Vs code,Dev-C++,turbo C,Intelije Idea
+
+Additional skills:
+
+Hard Working,Team Management,Leadership,Multitasking
+
+PROJECTS
+Hospital management:
+
+Technologies Used: Visual Basic 6.0, MS Access
+Description: Developed a desktop-based Hospital Management System to
+automate day-to-day operations of a hospital using VB 6.0 as the frontend and
+MS Access as the backend database.
+Homeocare center:
+
+Technologies Used: HTML,CSS
+Description: Developed a mobile-friendly landing page for a homeopathy clinic
+("Homeo Care Center") that allows users to easily book appointments and
+directly contact the doctor via call or WhatsApp.
+Certification
+
+java ,Problem Solving,Python,Javascript
+from hacker rank
+
+

@@ -1,0 +1,32 @@
+aws 5
+azure 5
+google cloud 5
+docker 4
+kubernetes 4
+terraform 4
+ansible 3
+Linux 4
+python 4
+bash 3
+ci/cd 4
+Jenkins 4
+CloudFormation 3
+microservices 3
+monitoring 3
+Prometheus 3
+Grafana 3
+networking 3
+security 4
+virtualization 3
+scripting 3
+automation 4
+serverless 3
+lambda 3
+DeVos 4
+git 3
+scalability 3
+load balancer 3
+containers 4
+vpc 3
+elb 3
+cloudwatch 3

@@ -1,0 +1,14 @@
+html 3
+CSS 3
+JavaScript 5
+react 5
+NodeJS 4
+git 2
+bootstrap 3
+api 3
+database 2
+jQuery 2
+typescript 3
+frontend 2
+backend 2
+full stack 4

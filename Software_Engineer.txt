@@ -1,0 +1,20 @@
+java 5  
+c++ 5  
+python 4  
+data structures 5  
+algorithms 5  
+object-oriented 4  
+multithreading 3  
+git 3  
+oop 4  
+problem-solving 5  
+debugging 4  
+designpatterns 3  
+software development 4  
+restapi 3  
+agile 3  
+scrum 2  
+sql 3  
+testing 3  
+version control 2  
+system design 4  

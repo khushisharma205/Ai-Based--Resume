@@ -1,0 +1,18 @@
+python 5  
+machine learning 5  
+data analysis 4  
+statistics 4  
+pandas 3  
+NumPy 3  
+matplotlib 2  
+deep learning 5  
+tensorflow 4  
+scikitlearn 4  
+sql 4  
+data 3  
+visualization 3  
+bigdata 4  
+cloud 3  
+spark 3  
+powerbi 2  
+nlp 4  
